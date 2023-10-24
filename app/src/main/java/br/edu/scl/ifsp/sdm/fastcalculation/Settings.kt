@@ -9,3 +9,4 @@ data class Settings(
     val rounds : Int= 0,
     val roundInterval: Long = 0L
 ) : Parcelable
+
